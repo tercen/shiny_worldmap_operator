@@ -350,13 +350,6 @@
       "RemoteSha": "386b1ba5785bd4d99cef41f40db446874877c054",
       "Hash": "84284424bfcc716315eafed80800f857"
     },
-    "rgeos": {
-      "Package": "rgeos",
-      "Version": "0.4-3",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "acb5218db542708a98fa64b194778be3"
-    },
     "rlang": {
       "Package": "rlang",
       "Version": "0.4.6",
