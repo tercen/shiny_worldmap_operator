@@ -6,6 +6,8 @@ library(ggplot2)
 library(sf)
 library(rnaturalearth)
 library(rnaturalearthdata)
+library(udunits2)
+library(units)
 
 shinyServer(function(input, output, session) {
   

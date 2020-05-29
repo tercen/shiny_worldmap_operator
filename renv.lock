@@ -462,6 +462,13 @@
       "Repository": "CRAN",
       "Hash": "971842fead8ee9e150495a0ede343a98"
     },
+    "udunits2": {
+      "Package": "udunits2",
+      "Version": "0.13",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "384a738869cafd50c5fcf63003d7ccf3"
+    },
     "units": {
       "Package": "units",
       "Version": "0.6-2",
