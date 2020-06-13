@@ -89,8 +89,8 @@ getCtx <- function(session) {
 
   # options("tercen.workflowId" = "f81d245ef22a2ff192ed2533a6002ec3")
   # options("tercen.stepId"     = "74346a88-1df8-4311-bd0c-4775873af470")
-
-  ctx <- tercenCtx()
+  # ctx <- tercenCtx()
+  
   return(ctx)
 }
 
